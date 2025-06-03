@@ -11,9 +11,9 @@
 |------|-----------|---------|-------------|
 |21 | TCP | FTP | Transfert de fichiers |
 |22 | TCP | SSH | Accès distant sécurisé |
-|23``` | TCP | Telnet | Accès distant (non sécurisé) |
-|25``` | TCP | SMTP | Envoi d'e-mails |
-|53``` | TCP/UDP | DNS | Résolution de noms |
+|23 | TCP | Telnet | Accès distant (non sécurisé) |
+|25 | TCP | SMTP | Envoi d'e-mails |
+|53 | TCP/UDP | DNS | Résolution de noms |
 |67 / 68 | UDP | DHCP | Attribution dynamique d’IP |
 |80 | TCP | HTTP | Web non sécurisé |
 |110 | TCP | POP3 | Récupération de mails |
